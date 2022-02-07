@@ -1,0 +1,35 @@
+<html>
+ <head><title>Tourist Spots in India</title>
+    <style type ="text/css">
+              div
+{
+width: 800px;
+	 height: 200px;
+	 color: black;
+	margin-left:150px;
+	text-size: 9;
+}			  
+</style>
+</head>
+<body>
+<div> <p><h1 text align ="center">
+<U><font size = "6"  color = "blue" face = "clibri">
+Tourist Spots in India </h1></font>
+ India has been a  <font color = "red" face = "clibri">
+ major tourist  spot </font>
+for tourists from all over the world for a long time.
+<br> Since the inception of the incredible India  project, 
+compaigns have been going on to <br>
+attract even more tourists to various destination in India . 
+The warm hospitality, cheap 
+<br> hotel rates and a well connected network of railways and 
+roadways make India an ideal<BR> <br>
+tourist attractions in india are:</p><img style="float: right;" alt="" src= "C:\Users\Admin\Pictures\Screenshots\Screenshot (141).png" height ="200" width= "100"> 
+<p><UL TYPE = "CIRCLE">
+<LI> Taj Mahal, Agra 
+<LI>Meenakshi Tmple, Madhurai                     
+<LI>Hawa Mahal, Jaipur
+<LI>Qutub Minar, Delhi 
+</UL></p></div>
+</body>
+</html>
